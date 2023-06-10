@@ -1,0 +1,10 @@
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/runner/CMakeFiles/numbers_api_project_job.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/xD/Desktop/numbers_api_project_job/build/windows/runner/CMakeFiles/ALL_BUILD.dir
