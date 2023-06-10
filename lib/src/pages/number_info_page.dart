@@ -7,6 +7,8 @@ class NumberInfoModel extends ChangeNotifier {
   String _numberInfoGetInfo = '';
   String _numberInfoRandom = '';
 
+  ////ahdskalñdsjaksdljkasdkasdlkasldalnkds
+
   String get numberInfoGetInfo => _numberInfoGetInfo;
   String get numberInfoRandom => _numberInfoRandom;
 
